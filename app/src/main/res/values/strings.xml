@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="introTitle">Glamour Cottage</string>
+    <string name="Subtitle">Enjoy your shopping with glamour"</string>
+    <string name="enter">Enter</string>
+    <string name="login_title">Choose Category</string>
+    <string name="dress">Dress</string>
+    <string name="jew">Jewelry</string>
+    <string name="explore_dresses">Explore Dresses</string>
+    <string name="text">text</string>
+    <string name="menu">Feature</string>
+    <string name="feature_is_clicked">Feature is clicked</string>
+    <string name="buy_dress">Buy Dress</string>
+    <string name="new_text">New text</string>
+    <string name="explore_features">Explore Features</string>
+</resources>

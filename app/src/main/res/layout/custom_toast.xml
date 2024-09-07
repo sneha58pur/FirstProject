@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/pick"
+    android:id="@+id/custom_toast_layout"
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+   >
+
+
+
+    <TextView
+        android:id="@+id/toast_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/explore_dresses"
+        android:textAlignment="center"
+        android:textColor="#FFF64D"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/toast_image"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+
+        android:scaleType="center"
+
+        android:src="@drawable/shirt" />
+
+
+</LinearLayout>
